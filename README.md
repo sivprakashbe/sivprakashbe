@@ -1,6 +1,6 @@
 - 👋 I’m a Enthusiastic fresher looking for opportunities to work in data science industry
 - 🔭 I excel in Python,MySQL,EDA,Statistics and ML
-- 🌱 I’m currently learning Data Analytics and Data Science @ Great Lakes
+- 🌱 I’m currently learning Data science @ Great Lakes
 - 📫 Reach me @ sivaprakashtd.be@gmail.com
 
 <!---

@@ -1,5 +1,4 @@
-- 👋 I’m a data enthusiast pursuing PGP in Data Science and Engineering at Great Lakes Institute of Management.
-- 🌱 I’m currently learning 
+- 👋 I’m a data enthusiast pursuing PGP in Data Science and Engineering at Great Lakes Institute of Management. 
 - 📫 Reach me at: sivaprakashtd.be@gmail.com
 
 <!---

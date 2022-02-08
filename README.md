@@ -1,5 +1,5 @@
 - 👋 I’m a data enthusiast pursuing PGP in Data Science and Engineering at Great Lakes Institute of Management. 
-- 🔭 I excel in MySQL, Python, Statistics and ML
+- 🔭 I excel in Python,MySQL,EDA,Statistics and ML
 - 🌱 I’m currently learning Data Analytics and Data Science @ Great Lakes
 - 📫 Reach me @ sivaprakashtd.be@gmail.com
 

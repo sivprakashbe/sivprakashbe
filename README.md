@@ -1,4 +1,4 @@
-- 👋 I’m a data enthusiast pursuing PGP in Data Science and Engineering at Great Lakes Institute of Management. 
+- 👋 I’m a Enthusiastic fresher looking for opportunities to work in data science industry
 - 🔭 I excel in Python,MySQL,EDA,Statistics and ML
 - 🌱 I’m currently learning Data Analytics and Data Science @ Great Lakes
 - 📫 Reach me @ sivaprakashtd.be@gmail.com

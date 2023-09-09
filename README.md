@@ -1,7 +1,7 @@
-- 🤵 I’m a Business Intelligence Developer looking for opportunities to work in data science industry.
-- 🔭 I excel in Python,MySQL,EDA,Statistics,ML,Tableau and PL SQL.
+- 🤵 Business Intelligence Developer looking for opportunities to work in data science industry.
+- 🔭 I excel in Python,MySQL,EDA,Statistics,ML,Tableau(Prep) and PL SQL.
 - 🌱 I’m currently working in TVS Credit Services as an Assistant Manager for Business Intelligence Team. 
-- 👨‍🎓 Holding a Bachelor's Degree in Electronics and Communication Engineering and Postgraduate Program in Data Science and Engineering from Great lakes institute of management.
+- 👨‍🎓 Holding a Bachelor's Degree in Electronics and Communication Engineering / Postgraduate Program in Data Science and Engineering from Great lakes institute of management.
 - 📫 Reach me @ sivaprakashtd.be@gmail.com / https://www.linkedin.com/in/siva-prakash-180495207
 
 <!---

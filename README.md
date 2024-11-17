@@ -2,7 +2,7 @@
 
 👨‍💻 About Me:
 - 📊 Business Intelligence Analyst with 2+ years of experience in Data Analytics and BI solutions.
-- 🔍 Focused on crafting **interactive dashboards**, building **predictive models**, and automating processes with Python and Tableau.
+- 🔍 Focused on crafting **interactive dashboards**, building **predictive models**, and automating processes with Python, Power BI and Tableau.
 - 💡 Passionate about leveraging data to drive smarter decisions and solve real-world challenges.
 
 🚀 Technical Skills:

@@ -9,8 +9,8 @@
 - **Programming**: Python (Pandas, Scikit-learn, Matplotlib)
 - **BI Tools**: Tableau (Dashboard, Prep, Server), Power BI
 - **Databases**: SQL, PL/SQL, MySQL, Oracle
-- **Specialties**: Predictive Analytics, Data Visualization, and Process Automation
-- 
+- **Specialties**: Predictive Analytics, Data Visualization.
+  
 📌 Featured Projects:
 1. **Predictive Analytics for OD Efficiency**  
    - Forecasted overdue metrics using Python and visualized insights with Tableau dashboards.

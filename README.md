@@ -22,7 +22,7 @@
 📫 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivaprakashtd)
 - 📧 Email: sivaprakashtd.be@gmail.com
-- 🌐 [Portfolio](https://github.com/Sivaprakashbe)
+- 🌐 [Portfolio](https://github.com/sivprakashbe)
 
 <!---
 sivprakashbe/sivprakashbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
